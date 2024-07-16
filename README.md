@@ -17,7 +17,7 @@ chmod +x ./gml-installer-rus.sh
 Для обновления Gml.Backend выполните следующую команду в директории, где находятся файлы `docker-compose.yml` и `.env`:
 
 ```sh
-curl -s https://raw.githubusercontent.com/GamerVII-NET/Gml.Backend.Installer/master/gml-updater-rus.sh | sh
+curl -s https://raw.githubusercontent.com/MC-DemonicParadise/Gml.Backend.Installer/master/gml-updater-rus.sh | sh
 ```
 
 ## Удаление
